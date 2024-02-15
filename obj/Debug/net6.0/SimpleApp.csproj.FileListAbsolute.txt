@@ -1,0 +1,14 @@
+C:\Users\KOTIKA SAIDAIAH\Desktop\Phase-4\SimpleApp\SimpleApp\bin\Debug\net6.0\SimpleApp.exe
+C:\Users\KOTIKA SAIDAIAH\Desktop\Phase-4\SimpleApp\SimpleApp\bin\Debug\net6.0\SimpleApp.deps.json
+C:\Users\KOTIKA SAIDAIAH\Desktop\Phase-4\SimpleApp\SimpleApp\bin\Debug\net6.0\SimpleApp.runtimeconfig.json
+C:\Users\KOTIKA SAIDAIAH\Desktop\Phase-4\SimpleApp\SimpleApp\bin\Debug\net6.0\SimpleApp.dll
+C:\Users\KOTIKA SAIDAIAH\Desktop\Phase-4\SimpleApp\SimpleApp\bin\Debug\net6.0\SimpleApp.pdb
+C:\Users\KOTIKA SAIDAIAH\Desktop\Phase-4\SimpleApp\SimpleApp\obj\Debug\net6.0\SimpleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOTIKA SAIDAIAH\Desktop\Phase-4\SimpleApp\SimpleApp\obj\Debug\net6.0\SimpleApp.AssemblyInfoInputs.cache
+C:\Users\KOTIKA SAIDAIAH\Desktop\Phase-4\SimpleApp\SimpleApp\obj\Debug\net6.0\SimpleApp.AssemblyInfo.cs
+C:\Users\KOTIKA SAIDAIAH\Desktop\Phase-4\SimpleApp\SimpleApp\obj\Debug\net6.0\SimpleApp.csproj.CoreCompileInputs.cache
+C:\Users\KOTIKA SAIDAIAH\Desktop\Phase-4\SimpleApp\SimpleApp\obj\Debug\net6.0\SimpleApp.dll
+C:\Users\KOTIKA SAIDAIAH\Desktop\Phase-4\SimpleApp\SimpleApp\obj\Debug\net6.0\refint\SimpleApp.dll
+C:\Users\KOTIKA SAIDAIAH\Desktop\Phase-4\SimpleApp\SimpleApp\obj\Debug\net6.0\SimpleApp.pdb
+C:\Users\KOTIKA SAIDAIAH\Desktop\Phase-4\SimpleApp\SimpleApp\obj\Debug\net6.0\SimpleApp.genruntimeconfig.cache
+C:\Users\KOTIKA SAIDAIAH\Desktop\Phase-4\SimpleApp\SimpleApp\obj\Debug\net6.0\ref\SimpleApp.dll
